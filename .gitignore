@@ -1,5 +1,4 @@
-## Comento la carpeta _site de manera que se despliegue en repositorio
-#_site
+_site
 .sass-cache
 .jekyll-metadata
 yarn.lock
